@@ -44,3 +44,9 @@ SAMPLE CODE :
     else :
 
         print("{} was not found".format(item))
+
+ OUTPUT :
+ 
+ Enter a number to search:  6
+ 
+ 6 is found at index 4

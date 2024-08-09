@@ -16,3 +16,31 @@ Step 6) i = i +1.
 Step 7) Go to step 3.
 
 Step 8) Stop.
+
+FLOW CHART : https://github.com/Lavanya901/CDS-LAB/blob/main/Flowchart.jpg
+
+SAMPLE CODE :
+
+    def linearSearch(data, item):
+
+        for i in range(len(data)):
+
+        if data[i] == item:
+
+        return I
+
+    return -1
+
+    data = [1, 9, 8, 7, 6, 3, 11, 4, 6, 9, 7, 2, 0, 19, -10]
+
+    item = int(input("Enter a number to search: "))
+
+    idx = linearSearch(data, item)
+
+    if idx >= 0:
+
+        print("{} is found at index {}".format(item, idx))
+
+    else :
+
+        print("{} was not found".format(item))

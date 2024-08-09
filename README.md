@@ -1,6 +1,8 @@
 # CDS-LAB
 COMPUTING FOR DATA SCIENCE LAB 
 
+
+ALGORITHM :
 Step 1) Read the search item, “item.”
 
 Step 2) Initiate i=0 and index=-1
@@ -17,7 +19,9 @@ Step 7) Go to step 3.
 
 Step 8) Stop.
 
+
 FLOW CHART : https://github.com/Lavanya901/CDS-LAB/blob/main/Flowchart.jpg
+
 
 SAMPLE CODE :
 

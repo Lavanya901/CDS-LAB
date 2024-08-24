@@ -1,6 +1,7 @@
 # CDS-LAB
 COMPUTING FOR DATA SCIENCE LAB 
 
+LINEAR SEARCH
 
 ALGORITHM :
 Step 1) Read the search item, “item.”
